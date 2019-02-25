@@ -1,0 +1,2 @@
+(cat ~/.config/wpg/sequences &)
+

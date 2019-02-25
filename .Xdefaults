@@ -1,0 +1,31 @@
+URxvt.scrollBar: false
+
+! Fonts
+URxvt.font: xft:Inconsolata:size=10,xft:WenQuanYi Micro Hei:size=10,xft:Wuncon Siji:style=bold:pixelsize=11:antialias=false;1
+
+#URxvt*font: xft:bitstream vera sans mono:size=10:antialias=true,xft:WenQuanYi Micro Hei Mono:size=10
+#URxvt*boldFont:  xft:bitstream vera sans mono:size=10:antialias=true,xft:WenQuanYi Micro Hei Mono:bold:size=10
+
+#URxvt.font: -misc-inconsolata-medium-r-norma--0-0-0-0-m-0-iso8869-9
+#URxvt.font:     xft:bitstream vera sans mono:size=10:antialias=true,xft:WenQuanYi Micro Hei Mono:style=Regular:pixelsize=11:antialias=tru
+#URxvt.font:    xft:Linux Libertine:size10:antialias=ture 
+#URxvt.font: -nil-profont-medium-r-normal--11-110-72-72-c-60-iso8859-1,xft:WenQuanYi Micro Hei Mono:style=Regular:pixelsize=11:antialias=true
+
+# Blur
+URxvt.internalBorder:  13
+#URxvt.borderColor: #8D7470
+URxvt.borderColor: #798C35
+URxvt.blurRadius:  15
+URxvt.shading:  200
+URxvt.tintColor:  white
+
+URxvt.cursorBlink:  True
+
+URxvt.externalBorder:  2
+
+# Transparency
+urxvt*depth: 32
+urxvt*background: rgba:0000/0000/0200/c800
+
+urxvt*transparent: true
+urxvt*shading: 30
