@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/root/.config/wpg/wallpapers/rf5W6Q9.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#8ce9c0",
+        "foreground": "#8ce9c0",
+        "cursor": "#8ce9c0"
+    },
+    "colors": {
+        "color0": "#8ce9c0",
+        "color1": "#66a250",
+        "color2": "#5071a2",
+        "color3": "#738149",
+        "color4": "#5291a4",
+        "color5": "#a34e3b",
+        "color6": "#a7a14f",
+        "color7": "#8ce9c0",
+        "color8": "#60a48f",
+        "color9": "#66a250",
+        "color10": "#5071a2",
+        "color11": "#738149",
+        "color12": "#5291a4",
+        "color13": "#a34e3b",
+        "color14": "#a7a14f",
+        "color15": "#8ce9c0"
+    }
+}

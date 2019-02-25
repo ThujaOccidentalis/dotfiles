@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/root/.config/wpg/wallpapers/happytrails.jpg"
+let background = "#2c2c2c"
+let foreground = "#bcfafe"
+let cursor     = "#bcfafe"
+
+" Colors
+let color0  = "#2c2c2c"
+let color1  = "#d3d385"
+let color2  = "#fecf6b"
+let color3  = "#d3bb5b"
+let color4  = "#9dfeaf"
+let color5  = "#4299df"
+let color6  = "#fefe4a"
+let color7  = "#bcfafe"
+let color8  = "#95c1fe"
+let color9  = "#d3d385"
+let color10 = "#fecf6b"
+let color11 = "#d3bb5b"
+let color12 = "#9dfeaf"
+let color13 = "#4299df"
+let color14 = "#fefe4a"
+let color15 = "#bcfafe"

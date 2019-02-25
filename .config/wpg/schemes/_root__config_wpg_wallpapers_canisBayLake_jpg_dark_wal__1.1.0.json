@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/root/.config/wpg/wallpapers/canisBayLake.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#f2f244",
+        "foreground": "#ffa9a9",
+        "cursor": "#ffa9a9"
+    },
+    "colors": {
+        "color0": "#f2f244",
+        "color1": "#f2f244",
+        "color2": "#f4f44e",
+        "color3": "#f4f450",
+        "color4": "#f7f780",
+        "color5": "#f5f567",
+        "color6": "#f7f790",
+        "color7": "#ffa9a9",
+        "color8": "#ff9e9e",
+        "color9": "#f2f244",
+        "color10": "#f4f44e",
+        "color11": "#f4f450",
+        "color12": "#f7f780",
+        "color13": "#f5f567",
+        "color14": "#f7f790",
+        "color15": "#ffa9a9"
+    }
+}

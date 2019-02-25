@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/root/.config/wpg/wallpapers/darkSky1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0a0f",
+        "foreground": "#c0c7a7",
+        "cursor": "#c0c7a7"
+    },
+    "colors": {
+        "color0": "#0e0a0f",
+        "color1": "#473254",
+        "color2": "#4E315C",
+        "color3": "#4E4E4C",
+        "color4": "#65685A",
+        "color5": "#778955",
+        "color6": "#99A73F",
+        "color7": "#c0c7a7",
+        "color8": "#868b74",
+        "color9": "#473254",
+        "color10": "#4E315C",
+        "color11": "#4E4E4C",
+        "color12": "#65685A",
+        "color13": "#778955",
+        "color14": "#99A73F",
+        "color15": "#c0c7a7"
+    }
+}

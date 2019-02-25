@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/root/.config/wpg/wallpapers/ngc1300.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#05070b",
+        "foreground": "#eebfb0",
+        "cursor": "#eebfb0"
+    },
+    "colors": {
+        "color0": "#05070b",
+        "color1": "#464054",
+        "color2": "#52526e",
+        "color3": "#96675f",
+        "color4": "#526d91",
+        "color5": "#907595",
+        "color6": "#b28386",
+        "color7": "#eebfb0",
+        "color8": "#a58579",
+        "color9": "#464054",
+        "color10": "#52526e",
+        "color11": "#96675f",
+        "color12": "#526d91",
+        "color13": "#907595",
+        "color14": "#b28386",
+        "color15": "#eebfb0"
+    }
+}

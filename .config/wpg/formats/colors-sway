@@ -1,0 +1,21 @@
+set $wallpaper /root/.config/wpg/wallpapers/happytrails.jpg
+
+set $background #2c2c2c
+set $foreground #bcfafe
+
+set $color0 #2c2c2c
+set $color1 #d3d385
+set $color2 #fecf6b
+set $color3 #d3bb5b
+set $color4 #9dfeaf
+set $color5 #4299df
+set $color6 #fefe4a
+set $color7 #bcfafe
+set $color8 #95c1fe
+set $color9 #d3d385
+set $color10 #fecf6b
+set $color11 #d3bb5b
+set $color12 #9dfeaf
+set $color13 #4299df
+set $color14 #fefe4a
+set $color15 #bcfafe

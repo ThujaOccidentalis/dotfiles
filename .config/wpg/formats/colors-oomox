@@ -1,0 +1,17 @@
+NAME=wal
+BG=2c2c2c
+FG=bcfafe
+MENU_BG=2c2c2c
+MENU_FG=bcfafe
+SEL_BG=d3d385
+SEL_FG=2c2c2c
+TXT_BG=2c2c2c
+TXT_FG=bcfafe
+BTN_BG=fecf6b
+BTN_FG=bcfafe
+HDR_BTN_BG=d3bb5b
+HDR_BTN_FG=bcfafe
+GTK3_GENERATE_DARK=True
+ROUNDNESS=0
+SPACING=3
+GRADIENT=0.0
