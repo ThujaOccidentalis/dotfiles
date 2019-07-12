@@ -1,0 +1,5 @@
+# Add the following lines to the file
+# Do not replace what is already there
+
+load-module module-alsa-sink device=dmix
+load-module module-alsa-source device=dsnoop
