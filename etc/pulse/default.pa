@@ -1,5 +1,6 @@
 # Add the following lines to the file
 # Do not replace what is already there
+# https://www.linuxquestions.org/questions/linux-newbie-8/pulseaudio-not-starting-4175513049/
 
 load-module module-alsa-sink device=dmix
 load-module module-alsa-source device=dsnoop
