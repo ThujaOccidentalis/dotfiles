@@ -1,0 +1,10 @@
+###
+### wifi-menu no networks found:
+###
+
+Solution:
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+rfkill unblock all
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\
